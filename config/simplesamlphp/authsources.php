@@ -11,7 +11,7 @@ $config = array(
         'user1:user1pass' => array(
             'uid' => array('1'),
             'eduPersonAffiliation' => array('group1'),
-            'email' => 'user1@example.com',
+            'email' => 'user1@one.example.com',
         ),
         'user2:user2pass' => array(
             'uid' => array('2'),
